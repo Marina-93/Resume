@@ -4,6 +4,7 @@ body{
 }
 .main-container{
     display: flex;
+    justify-content: flex-end;
     flex-direction: row-reverse;
     width: 1200px;
     background-color: #Ffff;
@@ -154,6 +155,7 @@ body{
 /* contact section */
 .contact-section-title {
     font-weight: bold;
+    font-style: initial;
     font-size: 14px;
     line-height: 24px;
     color: white;
